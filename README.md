@@ -19,9 +19,11 @@ I specialize in bridging the gap between low-level hardware and cutting-edge AI.
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moelomda&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Mohamed's GitHub Stats" />
-</div>
+<p align="center">
+  <a href="https://github.com/moelomda">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=moelomda&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Mohamed's GitHub Stats" />
+  </a>
+</p>
 
 ### 📫 Let's Connect
 
