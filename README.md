@@ -2,9 +2,7 @@
 
 # Hi, I'm Mohamed 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;AI+%26+LLM+Enthusiast;Building+Intelligence+at+the+Edge" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;AI+%26+LLM+Enthusiast;Building+Intelligence+at+the+Edge" alt="Typing SVG" />
 
 </div>
 
@@ -28,13 +26,6 @@ I specialize in bridging the gap between low-level hardware and cutting-edge AI.
 ### 📫 Let's Connect
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFCC" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-id">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFCC" alt="LinkedIn" />
-  </a>
-  <a href="https://mohamed.tech">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00FFCC" alt="Portfolio" />
-  </a>
+  <a href="mailto:moelomda2019@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFCC" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-ahmed-fouad1"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFCC" alt="LinkedIn" /></a>
 </div>
