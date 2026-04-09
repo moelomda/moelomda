@@ -12,18 +12,11 @@ I am an **Embedded Systems Engineer** with a strong passion for **Artificial Int
 
 I specialize in bridging the gap between low-level hardware and cutting-edge AI. My work focuses on bringing intelligence directly to the edge, enabling industrial machines and cyber-physical systems to process data, predict behavior, and make smart decisions locally.
 
-### 🛠️ What I Do
+### 🛠️ What I am currently Doing 
 * **Embedded Systems:** Architecting and developing firmware for microcontrollers and microprocessors (e.g., NXP i.MX8, STM32, Cortex-M/A, FreeRTOS, Yocto Linux).
 * **Edge AI:** Deploying predictive machine learning models (XGBoost, TCNs) directly onto embedded environments for real-time telemetry analysis.
 * **LLM Integration:** Exploring and fine-tuning Large Language Models to act as intelligent, domain-specific diagnostic assistants for hardware systems.
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/moelomda">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=moelomda&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Mohamed's GitHub Stats" />
-  </a>
-</p>
 
 ### 📫 Let's Connect
 
